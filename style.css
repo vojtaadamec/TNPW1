@@ -143,10 +143,10 @@ form button {
     background-color: #1E90FF;
     color: white;
     border: none;
-    width: 10%;
+    width: 50%;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .formular{
@@ -158,13 +158,13 @@ form button {
 }
 
 .formular img{
-    width: 40%;
+    width: 60%;
     transition: 0,7s;
     border-radius: 6px;
 }
 
 .formular img:hover{
-    width: 47%;
+    transform:scale(1.2);
 }
 form button:hover {
     background-color: #8FBC8F;
